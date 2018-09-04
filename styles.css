@@ -24,6 +24,7 @@ footer{
     right: 50;
     background-color:  #4B9CA6;
     overflow-x: hidden;
+    overflow-y: hidden;
     padding: 15px;
 }
 
